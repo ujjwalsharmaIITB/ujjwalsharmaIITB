@@ -3,7 +3,7 @@
 - 🌱 I’m currently doing M.Tech in Computer Science And Engineering from Indian Institute Of Bombay
 - 💞️ I’m looking to collaborate on Artificial Intelligence, Machine Learning , Natural Language Processing
 - 📫 How to reach me 
-    - Website : https://www.cse.iitb.ac.in/~ujjwalsharma/
+    * Website : https://www.cse.iitb.ac.in/~ujjwalsharma/
 
 <!---
 ujjwalsharmaIITB/ujjwalsharmaIITB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
