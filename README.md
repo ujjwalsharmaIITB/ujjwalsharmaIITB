@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on Artificial Intelligence, Machine Learning , Natural Language Processing
 - 📫 How to reach me 
     * Website : https://www.cse.iitb.ac.in/~ujjwalsharma/
+    * LinkedIn : https://www.linkedin.com/in/ujjwalsharmacs/
 
 <!---
 ujjwalsharmaIITB/ujjwalsharmaIITB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
